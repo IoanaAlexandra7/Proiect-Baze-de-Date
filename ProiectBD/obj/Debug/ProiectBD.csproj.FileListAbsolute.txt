@@ -1,0 +1,43 @@
+D:\Users\Admin\Desktop\ProiectBD\bin\Debug\ProiectBD.exe.config
+D:\Users\Admin\Desktop\ProiectBD\bin\Debug\ProiectBD.exe
+D:\Users\Admin\Desktop\ProiectBD\bin\Debug\ProiectBD.pdb
+D:\Users\Admin\Desktop\ProiectBD\obj\Debug\ProiectBD.csprojAssemblyReference.cache
+D:\Users\Admin\Desktop\ProiectBD\obj\Debug\ProiectBD.Form1.resources
+D:\Users\Admin\Desktop\ProiectBD\obj\Debug\ProiectBD.Properties.Resources.resources
+D:\Users\Admin\Desktop\ProiectBD\obj\Debug\ProiectBD.csproj.GenerateResource.cache
+D:\Users\Admin\Desktop\ProiectBD\obj\Debug\ProiectBD.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Desktop\ProiectBD\obj\Debug\ProiectBD.exe
+D:\Users\Admin\Desktop\ProiectBD\obj\Debug\ProiectBD.pdb
+D:\Users\Admin\Desktop\ProiectBD\obj\Debug\ProiectBD.Form2.resources
+D:\Users\Admin\Desktop\ProiectBD\obj\Debug\ProiectBD.Form3.resources
+D:\Users\Admin\Desktop\ProiectBD\obj\Debug\ProiectBD.Form4.resources
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\bin\Debug\ProiectBD.exe.config
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\bin\Debug\ProiectBD.exe
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\bin\Debug\ProiectBD.pdb
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.csprojAssemblyReference.cache
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.Form1.resources
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.Form2.resources
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.Form3.resources
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.Form4.resources
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.Properties.Resources.resources
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.csproj.GenerateResource.cache
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.exe
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.pdb
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\bin\Debug\Oracle.DataAccess.dll
+D:\Users\Admin\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.csproj.CopyComplete
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\bin\Debug\ProiectBD.exe.config
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\bin\Debug\ProiectBD.exe
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\bin\Debug\ProiectBD.pdb
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.csproj.AssemblyReference.cache
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.Form1.resources
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.Form2.resources
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.Form3.resources
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.Form4.resources
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.Properties.Resources.resources
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.csproj.GenerateResource.cache
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.csproj.CoreCompileInputs.cache
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.csproj.CopyComplete
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.exe
+C:\Users\Ioana\OneDrive\Desktop\Proiect Baze de date\ProiectBD\obj\Debug\ProiectBD.pdb
